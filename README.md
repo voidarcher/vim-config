@@ -2,5 +2,4 @@
 
 This is meant to be an easier .vimrc backup than just copying from Google Drive
 every time I install a new OS. Just download ths file to your home directory, 
-change the name to ".vimrc", follow the directions in the file, and you're all
-set to go! Happy Vimming! 
+follow the directions in the file, and you're all set to go! Happy Vimming! 
