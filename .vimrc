@@ -38,3 +38,5 @@ set termwinsize=10x0
 " >> For Slackware, add:
 " set nobackup
 " set noundofile
+
+"PS1='\[\e[0;1;96m\][\[\e[0;1;96m\]\u \[\e[0;1;91m\](\[\e[0;1;91m\]\w\[\e[0;1;91m\])\[\e[0;1;96m\]] \[\e[0;1;96m\]$ \[\e[0m\]' 
