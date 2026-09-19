@@ -14,6 +14,8 @@ set noshowmode
 set splitbelow
 set termwinsize=10x0
 
+colorscheme zaibatsu
+
 " >> Below are the vim-plug plugins.
 " >> First, install vim plus with the command: 
 
